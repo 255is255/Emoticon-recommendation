@@ -6,10 +6,10 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import joblib
 import string
 
-# 모델 및 토크나이저 로드
+# KCBERT 모델 및 토크나이저 로드
 model_paths = {
-    "stopwords_removed": "./emotion_classification_model_20241213_ALLDATA_except_medium_Delete_Stopwords_KCBERT",
-    "original": "./emotion_classification_model_20241213_ALLDATA_except_medium_KCBERT"
+    "stopwords_removed": "./MODEL_NAME_STOPWORDS_REMOVED",
+    "original": "./MODEL_NAME_ORIGINAL"
 }
 
 models = {}
