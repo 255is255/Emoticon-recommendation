@@ -127,7 +127,7 @@
 - [감성대화말뭉치(AI hub/미디어젠)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86)
 - [Emotion Dataset(Kaggle/BHAVIK JIKADARA)](https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset)
 
-### 코드 출처
-- [KcBERT] https://github.com/Beomi/KcBERT.git
+### 모델 출처
+- [KcBERT](https://github.com/Beomi/KcBERT.git)
 
 <br>
