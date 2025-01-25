@@ -119,6 +119,15 @@
 | 행복 | 0.97 | 0.97 | 0.97 | 28282 |
 | **Accuracy** |  |  | 0.92 | 76451 |
 
+<br>
+
+![image](https://github.com/user-attachments/assets/0424fc28-162e-472b-95d5-38a65b9de336)
+![image](https://github.com/user-attachments/assets/9d0583d9-fd07-443d-826c-8868ec7f005f)
+
+
+
+
+
 ## 참조
 
 ### 데이터 출처
@@ -129,5 +138,13 @@
 
 ### 모델 출처
 - [KcBERT](https://github.com/Beomi/KcBERT.git)
+
+<br>
+
+## 프로젝트 인원
+- Choi Hunseo (Ajou University)
+  - KcBERT 기반 한국어 감정분석
+- Na Seongjin (Ajou University)
+  - 로지스틱 회귀 기반 영어 감정 분석
 
 <br>
