@@ -143,7 +143,7 @@
 <br>
 
 ## 프로젝트 인원
-- Choi Hunseo (Ajou University)
+- 최훈서 (Ajou University)
   - KcBERT 기반 한국어 감정분석
-- Na Seongjin (Ajou University)
+- 나성진 (Ajou University)
   - 로지스틱 회귀 기반 영어 감정 분석
