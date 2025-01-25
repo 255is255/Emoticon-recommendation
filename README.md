@@ -15,7 +15,7 @@
   - 🖥️ PyTorch : KcBERT 모델 학습 및 Fine-Tuning
   - 📈 scikit-learn : Logistic Regression 및 Vectorizer 구현
 - **데이터 처리**
-  - 🤗 Hugging Face : 토큰화 및 모델 관리
+  - 📚 Hugging Face : 토큰화 및 모델 관리
   - 📚 Konlpy : 한국어 데이터 전처리
 - **개발 환경**
   - 💻 Local : RTX 4070 (Laptop 8GB)
@@ -36,6 +36,8 @@
 └── 통합 감정 분석 및 이모티콘 추천
     └── emotional_v2.py : 한국어/영어 통합 감정 분석 및 이모티콘 추천
 ````
+
+<br>
 
 ## 🗂️ 코드 설명
 ### 한국어 감정 분석
@@ -118,10 +120,12 @@
 
 <br>
 
+### 이모티콘 추천 예제
+
 ![image](https://github.com/user-attachments/assets/0424fc28-162e-472b-95d5-38a65b9de336)
 ![image](https://github.com/user-attachments/assets/9d0583d9-fd07-443d-826c-8868ec7f005f)
 
-
+<br>
 
 
 
@@ -143,5 +147,3 @@
   - KcBERT 기반 한국어 감정분석
 - Na Seongjin (Ajou University)
   - 로지스틱 회귀 기반 영어 감정 분석
-
-<br>
