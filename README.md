@@ -1,4 +1,4 @@
-## 🌟 프로젝트 소개
+## 프로젝트 소개
 비대면 소통 환경에서 감정 전달의 한계를 극복하기 위해, 한국어 및 영어 텍스트 기반 감정 분석과 이모티콘 추천 테스트를 목표하였습니다.  
 간단하게 UI를 구성하고, 사용자의 텍스트에서 **5가지 감정** (공포불안, 놀람당황, 분노, 슬픔, 행복)을 탐지하여, 적합한 이모티콘을 제안합니다.
 
@@ -9,21 +9,21 @@
 
 <br>
 
-## 🛠️ 기술 스택
+## 기술 스택
 - **언어 및 프레임워크**
-  - 🐍 Python : 주요 프로그래밍 언어
-  - 🖥️ PyTorch : KcBERT 모델 학습 및 Fine-Tuning
-  - 📈 scikit-learn : Logistic Regression 및 Vectorizer 구현
+  - Python : 주요 프로그래밍 언어
+  - PyTorch : KcBERT 모델 학습 및 Fine-Tuning
+  - scikit-learn : Logistic Regression 및 Vectorizer 구현
 - **데이터 처리**
-  - 📚 Hugging Face : 토큰화 및 모델 관리
-  - 📚 Konlpy : 한국어 데이터 전처리
+  - Hugging Face : 토큰화 및 모델 관리
+  - Konlpy : 한국어 데이터 전처리
 - **개발 환경**
-  - 💻 Local : RTX 4070 (Laptop 8GB)
-  - ☁️ Google Colab T4
+  - Local : RTX 4070 (Laptop 8GB)
+  - Google Colab T4
 
 <br>
 
-## 🗂️ 코드 구조
+## 코드 구조
 ```plaintext
 ├── Korean
 │   ├── data_filter.py : 데이터 전처리 및 불용어 제거
@@ -39,7 +39,7 @@
 
 <br>
 
-## 🗂️ 코드 설명
+## 코드 설명
 ### 한국어 감정 분석
 - **data_filter.py** : 데이터 전처리(중복 제거, 불용어 처리 등)
 - **KcBERT.py** : KcBERT 모델 학습 및 Fine-Tuning
@@ -53,7 +53,7 @@
 
 <br>
 
-## 🗂️ 모델 기능
+## 모델 기능
 ### 한국어 감정 분석 (KcBERT)
 - AIHub 데이터셋 기반 학습
 - 불용어 제거 및 형태소 분석 적용
@@ -69,7 +69,7 @@
 
 <br>
 
-## 📈 결과물
+## 결과물
 
 ### 한국어 감정 분석 성능
 - 싱글모델(전체 데이터)
